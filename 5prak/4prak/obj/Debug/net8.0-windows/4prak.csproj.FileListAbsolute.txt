@@ -1,0 +1,16 @@
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\_4prak.Form1.resources
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\4prak.csproj.GenerateResource.cache
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\4prak.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\4prak.AssemblyInfoInputs.cache
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\4prak.AssemblyInfo.cs
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\4prak.csproj.CoreCompileInputs.cache
+C:\visual\4prak\4prak\bin\Debug\net8.0-windows\4prak.exe
+C:\visual\4prak\4prak\bin\Debug\net8.0-windows\4prak.deps.json
+C:\visual\4prak\4prak\bin\Debug\net8.0-windows\4prak.runtimeconfig.json
+C:\visual\4prak\4prak\bin\Debug\net8.0-windows\4prak.dll
+C:\visual\4prak\4prak\bin\Debug\net8.0-windows\4prak.pdb
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\4prak.dll
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\refint\4prak.dll
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\4prak.pdb
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\4prak.genruntimeconfig.cache
+C:\visual\4prak\4prak\obj\Debug\net8.0-windows\ref\4prak.dll
